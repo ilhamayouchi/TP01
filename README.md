@@ -4,7 +4,7 @@
 
 <img width="294" height="178" alt="image" src="https://github.com/user-attachments/assets/c95a7053-ac60-499b-a5cb-6d5062d81959" />
 
-## Résultat de la recherche d’une chambre par son identifiant et l'ffichage de la liste de toutes les chambres enregistrée
+## Résultat de la recherche d’une chambre par son identifiant et l'affichage de la liste de toutes les chambres enregistrée
 
 <img width="263" height="251" alt="image" src="https://github.com/user-attachments/assets/caf7a19b-8aa0-4d62-b805-3403697bbf03" />
 
