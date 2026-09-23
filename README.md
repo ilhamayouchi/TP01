@@ -1,6 +1,6 @@
 # TP01
 
-## Création des hôtels et les chambres 
+## La création des hôtels et des chambres 
 
 <img width="294" height="178" alt="image" src="https://github.com/user-attachments/assets/c95a7053-ac60-499b-a5cb-6d5062d81959" />
 
