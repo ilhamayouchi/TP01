@@ -1,36 +1,30 @@
 # TP01
 
-<img width="315" height="397" alt="image" src="https://github.com/user-attachments/assets/4354193a-967a-45b0-87f0-d8aa56109ce2" />
+## Création des hôtels et les chambres 
 
-##
+<img width="294" height="178" alt="image" src="https://github.com/user-attachments/assets/c95a7053-ac60-499b-a5cb-6d5062d81959" />
 
-<img width="320" height="396" alt="image" src="https://github.com/user-attachments/assets/9ae9ac88-7b46-4fb9-9d81-9cf1723a9c2e" />
+## Résultat de la recherche d’une chambre par son identifiant et l'ffichage de la liste de toutes les chambres enregistrée
 
-##
+<img width="263" height="251" alt="image" src="https://github.com/user-attachments/assets/caf7a19b-8aa0-4d62-b805-3403697bbf03" />
 
-<img width="287" height="378" alt="image" src="https://github.com/user-attachments/assets/e7608385-4441-48bc-a895-783b45dfcc94" />
+## Résultat de la recherche d’une chambre par hôtel
 
-##
+<img width="227" height="41" alt="image" src="https://github.com/user-attachments/assets/618a2f29-f9a2-41c1-890d-66782a4528e4" />
 
-<img width="265" height="380" alt="image" src="https://github.com/user-attachments/assets/3099e739-bde3-449a-bb0a-a77032a35482" />
+## Résultat de la recherche d’une chambre par prix
 
-##
+<img width="236" height="47" alt="image" src="https://github.com/user-attachments/assets/ca78a9f9-662f-468d-906f-150cd0295944" />
 
-<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/13b1f3a8-4738-45d7-a262-b850e27539c8" />
+## Résultat de la recherche d’une chambre par Etat 
 
-##
+<img width="230" height="163" alt="image" src="https://github.com/user-attachments/assets/cc8d61ad-c752-45a0-9754-60421e7a4a3b" />
 
+## Résultat de la modification et suppresion d'une chambre 
 
-<img width="305" height="395" alt="image" src="https://github.com/user-attachments/assets/910f684d-6d2d-4580-84f4-0050e5b2a4d0" />
-
-##
-
-<img width="294" height="395" alt="image" src="https://github.com/user-attachments/assets/222de4d7-91b0-45c0-944e-3384a75275f4" />
-
-##
+<img width="187" height="88" alt="image" src="https://github.com/user-attachments/assets/43ea2024-8616-40b9-87ad-2db283e91b75" />
 
 
-<img width="245" height="376" alt="image" src="https://github.com/user-attachments/assets/a7325899-1374-429c-8d99-96777e0ab00b" />
 
 
 
